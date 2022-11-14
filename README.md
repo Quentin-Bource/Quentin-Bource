@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Quentin-Bource
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Quentin Bource 
 
-<!---
-Quentin-Bource/Quentin-Bource is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+*J’ai raté 9000 tirs dans ma carrière. J’ai perdu presque 300 matchs. 26 fois, on m’a fait confiance pour prendre le tir de la victoire et j’ai raté.  J’ai échoué encore et encore et encore dans ma vie. Et c’est pourquoi j'ai réussi. 
+Mickael Jordan*
+
+![Quentin-Bource](\\wsl.localhost\Ubuntu\home\quentin\Quentin Bource.jpg)
+
+
