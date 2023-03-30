@@ -1,12 +1,12 @@
 # Quentin Bource 
 
-##Qui suis-je ?
+## Qui suis-je ?
 
 Diplomé d'un bachelier d'éducateur spécialisé, je me suis réorienté vers une formation en developpement web chez Becode Charleroi. Je suis plus spécialisé sur le backend même si à terme je veux être developpeur fullstack. 
 
 ***
 
-##Mes projets
+## Mes projets
 ---
 
 Backend
