@@ -2,7 +2,7 @@
 
 ## Qui suis-je ?
 
-Diplomé d'un bachelier d'éducateur spécialisé, je me suis réorienté vers une formation en developpement web chez Becode Charleroi. Je suis plus spécialisé sur le backend même si à terme je veux être developpeur fullstack. 
+Diplômé d'un bachelier d'éducateur spécialisé, je me suis réorienté vers une formation en développement web chez BeCode Charleroi. Je suis davantage spécialisé dans le backend, même si à terme, je souhaite devenir développeur fullstack.
 
 
 ## Mes projets
